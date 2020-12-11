@@ -14,3 +14,5 @@ Run tests using
 ```shell
 yarn local
 ```
+
+Read the [Parse and use URL](https://glebbahmutov.com/blog/cypress-tips-and-tricks/#parse-and-use-url)
