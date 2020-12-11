@@ -8,3 +8,9 @@ This example shows how to do [dynamic routing](https://nextjs.org/docs/routing/d
    - e.g. matches `/post/my-example/a-comment` (`/post/:id/:comment`)
 
 ## Cypress tests
+
+Run tests using
+
+```shell
+yarn local
+```
